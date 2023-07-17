@@ -16,6 +16,6 @@ main {
 img.lado{
     float: right;
 }
-h2 {
+h2,h1,a {
     color: blue;
 }
